@@ -1,0 +1,171 @@
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\Tienda.exe
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\Tienda.pdb
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.exe
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.pdb
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.InitialCreate.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Views.Home.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Views.Proveedores.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.AddCategoriaForeignKeyToProducto.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Views.FormProductos.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.Relations.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.NullColumnsProducts.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Views.FormClientes.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.Clientes.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.ModifyContext.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.FacturayDetalles.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Views.FormVenta.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.ModDetalles.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Views.FormFacturas.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\obj\Debug\Tienda.Migrations.ForeignKeyClientInFactura.resources
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\MetroFramework.Design.dll
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\MetroFramework.dll
+C:\Users\USUARIO\Desktop\TP DAS\Tienda\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\Tienda.exe
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\Tienda.pdb
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\EntityFramework.dll
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\MetroFramework.Design.dll
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\MetroFramework.dll
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\EntityFramework.xml
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.InitialCreate.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.AddCategoriaForeignKeyToProducto.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.Relations.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.NullColumnsProducts.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.Clientes.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.ModifyContext.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.FacturayDetalles.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.ModDetalles.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Migrations.ForeignKeyClientInFactura.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Views.FormClientes.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Views.FormFacturas.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Views.FormProductos.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Views.Proveedores.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Views.FormVenta.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.Views.Home.resources
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.csproj.GenerateResource.cache
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.csproj.Up2Date
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.exe
+C:\Users\zavat\OneDrive\Documentos\das\Tienda\obj\Debug\Tienda.pdb
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Tienda.exe
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Tienda.pdb
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\EntityFramework.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\MetroFramework.Design.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\MetroFramework.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Buffers.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Collections.Immutable.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Memory.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\EntityFramework.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\Newtonsoft.Json.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Buffers.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Collections.Immutable.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Memory.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.FrmCategorias.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.InitialCreate.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.AddCategoriaForeignKeyToProducto.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.Relations.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.NullColumnsProducts.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.Clientes.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.ModifyContext.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.FacturayDetalles.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.ModDetalles.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.ForeignKeyClientInFactura.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.MiPrimerMigration.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Views.FormClientes.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Views.FormFacturas.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Views.FormProductos.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Views.Proveedores.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Views.FormVenta.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.csproj.GenerateResource.cache
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.csproj.Up2Date
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.exe
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.pdb
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Views.FrmMitienda.resources
+C:\Users\donle\Downloads\DAS-Final\das-12b70cf935fd00d61c921d8a72713312147ee1d5\Tienda\obj\Debug\Tienda.Migrations.PrimerMigracion.resources
