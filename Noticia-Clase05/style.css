@@ -1,0 +1,120 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #222020;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+header {
+  background-image: url('https://c.tenor.com/_hPVxzyHNXIAAAAC/periodismo-terror.gif');
+  background-size: cover;
+  color: white;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  width: 100%;
+  height: 300px;
+}
+
+h1 {
+  color: #bb2a2a;
+  font-size: 36px;
+}
+
+p {
+  color: #bb2a2a;
+  font-size: 14px;
+  padding: 20px;
+  margin: 10px auto;
+}
+
+div > button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+div > button:hover {
+  background-color: #2980b9;
+}
+
+div img {
+  display: block;
+  margin: 10px auto 5px auto;
+  border-radius: 5px;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(48, 182, 82, 0.1);
+  max-width: 500px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #33aa47;
+}
+
+form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+form button:hover {
+  background-color: #27ae60;
+}
+
+footer {
+  margin-top: 30px;
+  color: white;
+}
+
+@media screen and (max-width: 600px) {
+  p {
+    color: #bb2a2a !important;
+    background-color: #333333;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-width: 400px) {
+  .mobile {
+    display: block;
+    font-size: 20px;
+    color: #333333;
+  }
+
+  div img {
+    width: 60%;
+  }
+}
