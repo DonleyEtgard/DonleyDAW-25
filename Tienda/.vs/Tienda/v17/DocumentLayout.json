@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\donle\\Downloads\\DAS-Final\\das-12b70cf935fd00d61c921d8a72713312147ee1d5\\Tienda\\",
+  "WorkspaceRootPath": "C:\\Users\\donle\\Downloads\\DonleyDAW-25\\DonleyDAW-25\\Tienda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{662F2A99-6741-4B83-AD05-2EB5A6AE28AC}|Tienda.csproj|c:\\users\\donle\\downloads\\das-final\\das-12b70cf935fd00d61c921d8a72713312147ee1d5\\tienda\\migrations\\202505131412354_primermigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{662F2A99-6741-4B83-AD05-2EB5A6AE28AC}|Tienda.csproj|c:\\users\\donle\\downloads\\donleydaw-25\\donleydaw-25\\tienda\\migrations\\202505131412354_primermigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{662F2A99-6741-4B83-AD05-2EB5A6AE28AC}|Tienda.csproj|solutionrelative:migrations\\202505131412354_primermigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "202505131412354_PrimerMigracion.cs",
-              "DocumentMoniker": "C:\\Users\\donle\\Downloads\\DAS-Final\\das-12b70cf935fd00d61c921d8a72713312147ee1d5\\Tienda\\Migrations\\202505131412354_PrimerMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\donle\\Downloads\\DonleyDAW-25\\DonleyDAW-25\\Tienda\\Migrations\\202505131412354_PrimerMigracion.cs",
               "RelativeDocumentMoniker": "Migrations\\202505131412354_PrimerMigracion.cs",
-              "ToolTip": "C:\\Users\\donle\\Downloads\\DAS-Final\\das-12b70cf935fd00d61c921d8a72713312147ee1d5\\Tienda\\Migrations\\202505131412354_PrimerMigracion.cs",
+              "ToolTip": "C:\\Users\\donle\\Downloads\\DonleyDAW-25\\DonleyDAW-25\\Tienda\\Migrations\\202505131412354_PrimerMigracion.cs",
               "RelativeToolTip": "Migrations\\202505131412354_PrimerMigracion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
