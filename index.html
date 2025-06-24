@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Rick & Morty</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Rick and Morty</h1>
+    <nav>
+      <ul>
+        <li><a href="https://rickandmortyapi.com/" target="_blank">API Oficial</a></li>
+        <li><a href="https://rickandmortyapi.com/documentation/" target="_blank">Documentación</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="container">
+    <div>
+      <button id="btnmostrar">Mostrar Todos</button>
+      <h3>Filtrar Personajes</h3>
+      <form id="FormularioPersonajes">
+        <input type="text" id="name" placeholder="Nombre">
+        <input type="text" id="status" placeholder="Estado (alive, dead, unknown)">
+        <input type="text" id="species" placeholder="Especie"> 
+        <input type="text" id="Origen" placeholder="Origen">
+        <input type="text" id="gender" placeholder="Género (female, male, genderless, unknown)">
+        <button type="submit ">BUSCAR</button>
+      </form>
+    </div>
+    <div id="contenedor-personajes" class="cards-container"></div>
+  </section>
+
+   <section class="footer">
+    <p> @ Ricky&Morty <strong>MDE</strong></p>
+    </section>
+  <script src="script.js"></script>
+
+</body>
+</html>
